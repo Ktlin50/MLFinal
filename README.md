@@ -10,4 +10,4 @@
 
 - Kaggle Dataset 名稱：Seat Belt2  
 - 作者：Yehia Hassanain  
-- Kaggle 連結：  https://www.kaggle.com/code/reneeshprabha/seat-belt-fastness-detection-image-analysis/input
+- Kaggle Dataset 連結：  https://www.kaggle.com/code/reneeshprabha/seat-belt-fastness-detection-image-analysis/input
